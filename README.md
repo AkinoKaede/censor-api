@@ -1,17 +1,17 @@
-# cencor-api
+# censor-api
 
 The best censorship API.  
 
 ## Why choose this API?
 
 - High quality. It could filter all sensitive words around the world.
-- High performance. It could filter the sensitive words from text in a short time.
+- High performance. It could filter the sensitive words from texts in a short time.
 - Easy to use. You could use it without any token or API key.
 - Free and Open-Source. It is a free software and you could deploy it by yourself.
 
 ## Demo
 
-<https://cencor-api.vercel.app>
+<https://censor-api.vercel.app>
 
 ## Credits
 
@@ -20,7 +20,7 @@ The best censorship API.
 ## License
 
 ```
-cencor-api, the best censorship API.
+censor-api, the best censorship API.
 Copyright (C) 2021 AkinoKaede <autmaple@protonmail.com>
 
 This program is free software: you can redistribute it and/or modify
