@@ -9,10 +9,6 @@ The best censorship API.
 - Easy to use. You could use it without any token or API key.
 - Free and Open-Source. It is a free software and you could deploy it by yourself.
 
-## Demo
-
-<https://censor-api.vercel.app>
-
 ## Credits
 
 - [studentmain/censor](https://github.com/studentmain/censor)
